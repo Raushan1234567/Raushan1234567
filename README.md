@@ -1,4 +1,4 @@
-### Hi there 👋
+zzz### Hi there 👋
 "Embrace tech's endless possibilities. Each new skill is a step towards shaping the future. Be a fearless explorer, driven by curiosity. Our journey is a melody of growth and discovery. Keep learning, keep innovating!"
 
 <!--
@@ -20,7 +20,9 @@ https://Raushan1234567.github.io/
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-(https:![download (1)](https://github.com/user-attachments/assets/b507d95a-14bb-4c7a-bc76-f1a10001bfe5)(https://github.com/user-attachments/assets/18442f24-d847-43e9-a0e3-e765c23fc765)(https://github.com/user-attachments/assets/9ed23cef-d67a-4487-8bce-ac714f60faf8)
+(https:![download (1)](https://github.com/user-attachments/assets/b507d95a-14bb-4c7a-bc76-f1a10001bfe5)
+(https://github.com/user-attachments/assets/18442f24-d847-43e9-a0e3-e765c23fc765)
+(https://github.com/user-attachments/assets/9ed23cef-d67a-4487-8bce-ac714f60faf8)
 
 
 //github.com/Raushan1234567/Raushan1234567/assets/115460955/5fd04006-c533-406c-ae01-10870444f690)![Uploading download (2).png…]()
