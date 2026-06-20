@@ -1,4 +1,4 @@
-zzz### Hi there 👋
+Hi there 👋
 "Embrace tech's endless possibilities. Each new skill is a step towards shaping the future. Be a fearless explorer, driven by curiosity. Our journey is a melody of growth and discovery. Keep learning, keep innovating!"
 
 <!--
